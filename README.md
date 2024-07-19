@@ -10,13 +10,14 @@ In order to access the application, navigate to the github pages link: https://m
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+When navigating to the webpage, the usser will need to click the "Add Employees" button to initiate the script to add the employee salaries to the spreadsheet.
+![buttton that reads "Add Employees"](https://raw.githubusercontent.com/mcellis1/musical-guacamole/main/images/add-employee.png)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+The user will then be prompted to enter the first name, last name, and salary of the employee. The user can continue to submit as many employee's information as they need until they select "cancel".
+![a window prompt asking the employee's first name](https://raw.githubusercontent.com/mcellis1/musical-guacamole/main/images/prompt-window.png)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+Open the console log with Chrome Dev Tools to see the average salary calculated a logged, as well a random emmployee selected to win a giveaway.
+![the console log with the employee salary and name information](https://raw.githubusercontent.com/mcellis1/musical-guacamole/main/images/console-log.png)
 
 ## Credits
 
